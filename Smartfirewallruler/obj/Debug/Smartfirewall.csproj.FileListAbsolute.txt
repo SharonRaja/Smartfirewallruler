@@ -1,0 +1,11 @@
+X:\firewall\Smartfirewall\Smartfirewall\bin\Debug\Smartfirewall.exe
+X:\firewall\Smartfirewall\Smartfirewall\bin\Debug\Smartfirewall.pdb
+X:\firewall\Smartfirewall\Smartfirewall\obj\Debug\Smartfirewall.csprojAssemblyReference.cache
+X:\firewall\Smartfirewall\Smartfirewall\obj\Debug\Smartfirewall.Properties.Resources.resources
+X:\firewall\Smartfirewall\Smartfirewall\obj\Debug\Smartfirewall.csproj.GenerateResource.cache
+X:\firewall\Smartfirewall\Smartfirewall\obj\Debug\Smartfirewall.csproj.CoreCompileInputs.cache
+X:\firewall\Smartfirewall\Smartfirewall\obj\Debug\Smartfirewall.exe
+X:\firewall\Smartfirewall\Smartfirewall\obj\Debug\Smartfirewall.pdb
+X:\firewall\Smartfirewall\Smartfirewall\obj\Debug\Interop.NetFwTypeLib.dll
+X:\firewall\Smartfirewall\Smartfirewall\obj\Debug\Smartfirewall.csproj.ResolveComReference.cache
+X:\firewall\Smartfirewall\Smartfirewall\obj\Debug\Smartfirewall.Form1.resources
